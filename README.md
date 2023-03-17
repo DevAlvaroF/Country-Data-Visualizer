@@ -1,7 +1,7 @@
 # Country Data Visualizer
 JavaScript country data visualizaer with REST Countries API
 
-LIVE DEMO: https://alvarofloresr.github.io/Country-Data-Visualizer/
+LIVE DEMO: https://devalvarof.github.io/Country-Data-Visualizer/
 
 ## Potential Improvements
 - Display more than 1 border country
